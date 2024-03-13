@@ -1,6 +1,6 @@
 package com.crud.springboot.service;
 
-import com.crud.springboot.dao.EmployeeRepository;
+import com.crud.springboot.repository.EmployeeRepository;
 import com.crud.springboot.entity.Employee;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

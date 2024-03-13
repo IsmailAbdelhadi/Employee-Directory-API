@@ -1,4 +1,4 @@
-package com.crud.springboot.rest;
+package com.crud.springboot.controller;
 
 import com.crud.springboot.entity.Employee;
 import com.crud.springboot.service.EmployeeService;
